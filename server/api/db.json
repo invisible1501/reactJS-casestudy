@@ -1,0 +1,193 @@
+{
+  "goods": [
+    {
+      "id": 0,
+      "name": "Bed",
+      "thumbnail": "/images/bed.jpg",
+      "price": "10000",
+      "quantity": "100"
+    },
+    {
+      "id": 1,
+      "name": "Cabinet",
+      "thumbnail": "/images/cabinet.jpg",
+      "price": "11000",
+      "quantity": "100"
+    },
+    {
+      "id": 2,
+      "name": "Carpet",
+      "thumbnail": "/images/carpet.jpg",
+      "price": "12000",
+      "quantity": "100"
+    },
+    {
+      "id": 3,
+      "name": "Curtain",
+      "thumbnail": "/images/curtain.jpg",
+      "price": "13000",
+      "quantity": "100"
+    },
+    {
+      "id": 4,
+      "name": "Television",
+      "thumbnail": "/images/tv.jpg",
+      "price": "14000",
+      "quantity": "100"
+    },
+    {
+      "id": 5,
+      "name": "Chair",
+      "thumbnail": "/images/chair.jpg",
+      "price": "15000",
+      "quantity": "100"
+    },
+    {
+      "id": 6,
+      "name": "Table",
+      "thumbnail": "/images/table.jpg",
+      "price": "10000",
+      "quantity": "100"
+    },
+    {
+      "id": 7,
+      "name": "Refrigerator",
+      "thumbnail": "/images/refrige.jpg",
+      "price": "11000",
+      "quantity": "100"
+    },
+    {
+      "id": 8,
+      "name": "Washing machine",
+      "thumbnail": "/images/washing-machine.jpg",
+      "price": "12000",
+      "quantity": "100"
+    },
+    {
+      "id": 9,
+      "name": "wt-purifier",
+      "thumbnail": "/images/wt_purifier.jpg",
+      "price": "13000",
+      "quantity": "100"
+    },
+    {
+      "id": 10,
+      "name": "Wall Fan",
+      "thumbnail": "/images/fan1.jpg",
+      "price": "14000",
+      "quantity": "100"
+    },
+    {
+      "id": 11,
+      "name": "Fan",
+      "thumbnail": "/images/fan2.jpg",
+      "price": "14000",
+      "quantity": "100"
+    },
+    {
+      "id": 12,
+      "name": "Knife",
+      "thumbnail": "/images/knifes.jpg",
+      "price": "14000",
+      "quantity": "100"
+    },
+    {
+      "id": 13,
+      "name": "Jar",
+      "thumbnail": "/images/jar.jpg",
+      "price": "14000",
+      "quantity": "100"
+    },
+    {
+      "id": 14,
+      "name": "Wallet",
+      "thumbnail": "/images/wallet.jpg",
+      "price": "14000",
+      "quantity": "100"
+    },
+    {
+      "id": 15,
+      "name": "Earphone",
+      "thumbnail": "/images/earphone.jpg",
+      "price": "14000",
+      "quantity": "100"
+    },
+    {
+      "id": 16,
+      "name": "Bag",
+      "thumbnail": "/images/bag.jpg",
+      "price": "14000",
+      "quantity": "100"
+    },
+    {
+      "id": 17,
+      "name": "Helmet",
+      "thumbnail": "/images/helmet.jpg",
+      "price": "14000",
+      "quantity": "100"
+    },
+    {
+      "id": 18,
+      "name": "Dishwashing machine",
+      "thumbnail": "/images/dishwashing-machine.jpg",
+      "price": "14000",
+      "quantity": "100"
+    },
+    {
+      "id": 19,
+      "name": "Air Conditioner",
+      "thumbnail": "/images/air-conditioner.jpg",
+      "price": "15000",
+      "quantity": "100"
+    }
+  ],
+  "users": [
+    {
+      "id": 0,
+      "name": "admin",
+      "username": "admin",
+      "password": "12345678",
+      "age": 30,
+      "phone": "0123456789"
+    },
+    {
+      "id": 1,
+      "name": "Trà Thụy Trúc Mai",
+      "username": "tttm150120011",
+      "password": "Yeubemai@151",
+      "address": "34 đường số 12 bình hưng hòa A bình tân tphcm",
+      "age": 21,
+      "phone": "0988896404",
+      "orders": [
+        {
+          "id": "4610bc48-c4d3-442a-a93d-3c3e4a6796a3",
+          "name": "Trà Thụy Trúc Mai",
+          "things": "Chair-4; ",
+          "cost": 80000,
+          "address": "34 đường số 12 bình hưng hòa A bình tân tphcm",
+          "phone": "0988896404"
+        },
+        {
+          "id": "05d4bb9a-db7d-4f39-b6b4-bd2260c67bbb",
+          "name": "Trà Thụy Trúc Mai",
+          "things": "Curtain-14; Wall Fan-6; ",
+          "cost": 286000,
+          "address": "34 đường số 12 bình hưng hòa A bình tân tphcm",
+          "phone": "0988896404"
+        }
+      ],
+      "_id": "628cf3d9f1538a39cb57875f"
+    },
+    {
+      "id": 2,
+      "name": "Trà Thụy Trúc Mai",
+      "username": "tttm15012001",
+      "password": "Yeubemai@151",
+      "address": "34 đường số 12 bình hưng hòa A bình tân tphcm",
+      "age": 22,
+      "phone": "0904996132",
+      "orders": [],
+      "_id": "628cf699415cfa5f2dde1dbe"
+    }
+  ]
+}

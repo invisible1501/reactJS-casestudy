@@ -1,0 +1,6 @@
+@media (min-width: 1025px) {
+    .h-custom {
+    height: fit-content !important;
+    min-height: 100vh;
+    }
+}
